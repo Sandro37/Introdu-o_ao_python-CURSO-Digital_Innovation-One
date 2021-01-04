@@ -1,8 +1,8 @@
 #lidando com módulos, importação de classes, métodos
 # e construção de funções anônimas
-from aula7_televisao import Televisao
-from aula7_calculadora2 import Calculadora
-from aula8_contador_letras import contador_letras, teste
+from aula07_televisao import Televisao
+from aula07_calculadora2 import Calculadora
+from aula08_contador_letras import contador_letras, teste
 
 if __name__ == '__main__':
     tv = Televisao()
