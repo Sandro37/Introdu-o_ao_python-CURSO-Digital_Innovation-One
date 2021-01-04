@@ -1,0 +1,5 @@
+rafael, 10,10,5,5
+Felipe, 7,8,5,6
+Ricardo, 10,9,6,7
+Alessandro,10,9,8,7
+Jailson,8,10,10,10

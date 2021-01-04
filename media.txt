@@ -1,0 +1,5 @@
+{'rafael': 7.5}
+{'Felipe': 6.5}
+{'Ricardo': 8.0}
+{'Alessandro': 8.5}
+{'Jailson': 9.5}
